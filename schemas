@@ -1,0 +1,5 @@
+schemas:
+ - prod_datavault
+ - prod_dds
+ - prod_emart
+ - usr_wrk
